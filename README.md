@@ -1,3 +1,3 @@
-# capstone-backend
+Ziggy's Finds Backend
 
-Built fully with Python. Postgresql Databases. RESTful APIs
+Built with Python. OOP,  RESTful APIs using Postgresql databases. 
