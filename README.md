@@ -1,3 +1,3 @@
-Ziggy's Finds Backend
+Ziggy's Finds Backend Code
 
-Built with Python. Object Orientied Programing. Developed API with REST protocol using Postgresql databases. 
+Built with Python. Object Orientied Programing. Developed API with RESTful protocols using Postgresql database. 
